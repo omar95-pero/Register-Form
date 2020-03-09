@@ -1,0 +1,12 @@
+form{
+  max-width: 450px;
+  margin: 10px auto;
+}
+form input,
+form textarea{
+      margin-bottom: 5px
+}
+form textarea{
+
+height: 180px !important;
+}
